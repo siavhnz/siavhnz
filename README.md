@@ -5,7 +5,6 @@
 [<img alt="CSS3" width="24px" src="./icons/css3.svg" />](https://www.w3.org/Style/CSS/) 
 [<img alt="HTML5" width="24px" src="./icons/html5.svg" />](https://html.spec.whatwg.org/multipage/) 
 [<img alt="React" width="24px" src="./icons/react.svg" />](https://reactjs.org/) 
-[<img alt="Next" width="24px" src="./icons/nextdotjs.svg" />](https://nextjs.org/)
 
 - 🔭 I’m currently working on frontendmentor.io challenges to be in a community for interaction and learning
 
